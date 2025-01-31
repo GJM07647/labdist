@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }
 
         if (mensaje.value.trim() === "") {
-            alert("Ingrese un mensaje, por favor");
+            alert("Ingrese un mensaje");
             valid = false;
             }
             
