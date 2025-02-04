@@ -281,8 +281,8 @@ $ git log --all --decorate --oneline --graph
 ![](C:\Users\Guty\Desktop\DESPLIEGUE\TAREA 2\capturas\trabajo en remoto\1\añadido labdist a sourcetree 2.png)
 
 2. En tu cuenta de GitHub, crea un repositorio remoto y sube al remoto los ficheros de tu
-  repositorio local. Debes subir todas las ramas. Muestra, además, la captura de pantalla
-  donde se vean en GitHub.
+    repositorio local. Debes subir todas las ramas. Muestra, además, la captura de pantalla
+    donde se vean en GitHub.
 
   - En el icono de settings, situado en la pestaña de remoto, añado el repositorio remoto (add) con la URL.
 
@@ -505,9 +505,7 @@ Resuelto el conflicto
 
 ## **VIDEOCLIP**
 
-https://www.loom.com/share/0ac4c48bbdb94f4e948a87047b5167cb?sid=01d70436-dd53-43a3-b8c8-8816243ef540
-
-
+https://www.loom.com/share/d1dd2638631c4aff97dd049a2a785e5f?sid=bfdb1de5-db7d-4409-80dc-d13ff678886a
 
 
 
@@ -527,7 +525,7 @@ https://www.loom.com/share/0ac4c48bbdb94f4e948a87047b5167cb?sid=01d70436-dd53-43
 
 
 
-
+https://github.com/GJM07647/labdist.git
 
 
 
